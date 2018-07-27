@@ -1,0 +1,43 @@
+body { 
+    background: black;
+    color: whitesmoke;
+    
+}
+
+#startpage img {
+    width: 25%;
+    height: 25%;
+    
+}
+
+#startpage {
+    text-align: center;
+}
+
+h1 {
+    border-top: 25px;
+    border-bottom: 25px;
+    border-color: whitesmoke;
+    background: 
+   
+}
+
+.aboutpage {
+   border: 5px solid red;
+   padding: 25px;
+}
+
+h2 {
+    font-size: 40px;
+
+}
+
+@media screen and (max-width: 360px) {
+   
+    }
+
+#image_container img {
+    width: 400px;
+    height: 400px;
+}
+
